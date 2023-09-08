@@ -23,7 +23,7 @@ Accuracy We got 71%
 ![Alt text](Images/result.png)
 
 ### Accuracy 
-![Alt text](Images/result.png)
+![Alt text](Images/Accuracy Check.JPG)
 
 
 ### Packages and Tools Required:
