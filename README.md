@@ -8,9 +8,10 @@ The goal here is to scale their efforts through technology; to gain the ability 
 
 ### Algortihms Used
 
-1. Convolutional Neural Network
+1. Resnet
+2. Swim transformer
 	
-Accuracy We got 73%
+Accuracy We got 71%
 
 
 
@@ -20,6 +21,8 @@ Accuracy We got 73%
 	
 	Result	
 ![Alt text](Images/result.png)
+
+### Accuracy 
 
 
 
