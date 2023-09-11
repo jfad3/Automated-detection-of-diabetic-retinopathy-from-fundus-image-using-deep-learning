@@ -3,14 +3,14 @@
 
 ## Overview
 
-Millions Diabetic patients often experience a common disease known as Diabetic Retinopathy. This condition predominantly affects the retina, which is the light sensitive tissue located at the back of the eye, by damaging the blood vessels that supply it. While in its early stages, Diabetic Retinopathy may not show any symptoms and can gradually lead to mild vision problems. It is crucial to detect the early stages of thisdisease automatically to prevent damage to the eyes and avoid vision loss. Therefore, the automatic detection of this condition is vital for early screening and diagnosis, which allows for timely treatment. Fundus cameras are used to capture retinal images, which can help in detecting and diagnosing Diabetic Retinopathy .This study proposes a method that utilizes deep learning to automatically identify the progression level of Diabetic Retinopathy. Two different deep learning architectures, namely ResNet, and Swin Transformer, were utilized in the experiment. The models were evaluated in terms of accuracy and network size, and the results were visualized using metrics like confusion matrix. The findings indicate that Swin Transformer can achieve better accuracy and robustness during classification.
+Millions of Diabetic patients often experience a common disease known as Diabetic Retinopathy. This condition predominantly affects the retina, which is the light-sensitive tissue located at the back of the eye, by damaging the blood vessels that supply it. While in its early stages, Diabetic Retinopathy may not show any symptoms and can gradually lead to mild vision problems. It is crucial to detect the early stages of this disease automatically to prevent damage to the eyes and avoid vision loss. Therefore, the automatic detection of this condition is vital for early screening and diagnosis, which allows for timely treatment. Fundus cameras are used to capture retinal images, which can help in detecting and diagnosing Diabetic Retinopathy. This study proposes a method that utilizes deep learning to automatically identify the progression level of Diabetic Retinopathy. Two different deep learning architectures, namely ResNet, and Swin Transformer, were utilized in the experiment. The models were evaluated in terms of accuracy and network size, and the results were visualized using metrics like confusion matrix. The findings indicate that Swin Transformer can achieve better accuracy and robustness during classification.
 
-### Algortihms Used
+### Algorithms Used
 
 1. Resnet
 2. Swim transformer
 	
-Accuracy We got 71% in Swim Transformer. That is Outperforming ResNet50
+Accuracy We got 71.4% in the Swin Transformer. That is Outperforming ResNet50
 
 
 
